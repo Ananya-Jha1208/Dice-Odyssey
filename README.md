@@ -1,6 +1,6 @@
 # Dice Odyssey 
 <p align="center">
-<img src=""> 
+<img src="https://github.com/Ananya-Jha1208/Dice-Odyssey/blob/main/images/Screenshot%202023-12-06%20222238.png"> 
 </p>  
 <h2 align="center">
 An immersive game experience inviting you to explore and master the unpredictable world of dice!
